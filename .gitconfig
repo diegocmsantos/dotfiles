@@ -1,0 +1,9 @@
+[user]
+	email = diego.maia@emma-sleep-.com
+	name = Diego maia
+[alias]
+  s = status
+  co = checkout
+  br = branch
+  cm = commit -m
+  lg = log --oneline --graph --all --decorate
